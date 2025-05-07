@@ -3,9 +3,6 @@
 
 A simple Python library to calculate [ProBot](https://probot.io) tax (5%) only — with full input validation and flexible output formatting.
 
-> **By Adham Hamdy**  
-> Discord: `Dewecat / 7teq`
-
 ---
 
 ## 📦 Installation
