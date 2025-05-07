@@ -97,6 +97,5 @@ This project is licensed under the MIT License.
 ## 💬 Author
 
 Made with ❤️ by **Adham Hamdy**  
-Discord: `Dewecat / 7teq`  
-GitHub: [@Adham Hamdy](https://github.com/AdhamT1)
-GitHub: [@Adham Hamdy](https://github.com/AdhamT1)
+Discord: `dewecat / 7teq`  
+GitHub: [@Adham Hamdy](https://github.com/AdhamT1) | GitHub: [probot-tax](https://github.com/AdhamT1/probot-tax)
