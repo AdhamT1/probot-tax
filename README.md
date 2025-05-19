@@ -1,5 +1,5 @@
 
-# probot_tax
+# probot_tax | (we working on update)
 
 A simple Python library to calculate [ProBot](https://probot.io) tax (5%) only — with full input validation and flexible output formatting.
 
